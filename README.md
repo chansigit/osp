@@ -1,3 +1,5 @@
+> **Moved.** Since 2026-10-06 this package lives in [eca-rsi](https://github.com/chansigit/eca-rsi) as `osp/` (its history included; decision 0018). This repository is read-only.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/chansigit/osp/main/assets/osp-logo.svg" alt="OSP logo: a group of cells within one sample, with one cell in focus" width="176" height="176">
 </p>
